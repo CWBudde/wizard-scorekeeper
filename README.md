@@ -2,6 +2,8 @@
 
 A fast, mobile-friendly scorekeeper for the Wizard card game. It records predictions and tricks, calculates scores automatically, keeps a complete editable history, and stores the current game locally in the browser.
 
+**Live app:** https://cwbudde.github.io/wizard-scorekeeper/
+
 ## Features
 
 - 3–6 players with the correct number of rounds for a 60-card deck
@@ -10,12 +12,10 @@ A fast, mobile-friendly scorekeeper for the Wizard card game. It records predict
 - Live projected totals and standings
 - Editable round history and final ranking
 - Automatic local persistence—no account or server required
+- Automatic, light, and dark appearance modes
+- Automatic language detection with complete English and German translations
 - Responsive, accessible interface
 - Continuous deployment to GitHub Pages
-
-## Live app
-
-[Open Wizard Scorekeeper](https://cwbudde.github.io/wizard-scorekeeper/)
 
 ## Development
 
