@@ -13,6 +13,10 @@ A fast, mobile-friendly scorekeeper for the Wizard card game. It records predict
 - Responsive, accessible interface
 - Continuous deployment to GitHub Pages
 
+## Live app
+
+[Open Wizard Scorekeeper](https://cwbudde.github.io/wizard-scorekeeper/)
+
 ## Development
 
 ```sh
